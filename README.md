@@ -36,10 +36,18 @@
 🔹 RESTful API, GraphQL, RabbitMQ, Redis, Kafka
 
 📌 İletişim & Destek
-Eğer projelerimde emeğimi takdir etmek ve bana destek olmak isterseniz, aşağıdaki bağlantıyı kullanarak katkıda bulunabilirsiniz:
+Eğer çalışmalarımı beğendiyseniz ve projelerime katkıda bulunmak isterseniz, bir kahve ısmarlayarak destek olabilirsiniz! ☕💛
 
-☕ Buy Me a Coffee
+<p align="left"> <a href="https://www.buymeacoffee.com/just_tech" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Bana Kahve Ismarlayın" width="180" height="50"> </a> </p>
 
+📫 Bağlantılarım:
+
+📌 GitHub: [kadirertancam](https://github.com/kadirertancam)
+
+📌 LinkedIn: [Kadir Ertan ÇAM](https://www.linkedin.com/in/kadir-ertan-%C3%A7am-6438a5112/)
+
+
+🚀 Yeni projeler ve işbirlikleri için iletişime geçmekten çekinmeyin!
 📫 Bana ulaşmak için:
 📌 GitHub: kadirertancam
 📌 LinkedIn: Kadir Ertan Çam

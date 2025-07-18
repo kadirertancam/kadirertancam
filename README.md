@@ -47,5 +47,3 @@ Eğer çalışmalarımı beğendiyseniz ve projelerime katkıda bulunmak isterse
 
 📌 LinkedIn: [Kadir Ertan ÇAM](https://www.linkedin.com/in/kadir-ertan-%C3%A7am-6438a5112/)
 
-🚀 Yeni projeler ve işbirlikleri için her zaman iletişime geçebilirsiniz!
-

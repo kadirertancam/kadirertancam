@@ -40,17 +40,12 @@ Eğer çalışmalarımı beğendiyseniz ve projelerime katkıda bulunmak isterse
 
 <p align="left"> <a href="https://www.buymeacoffee.com/just_tech" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Bana Kahve Ismarlayın" width="180" height="50"> </a> </p>
 
+🚀 Yeni projeler ve işbirlikleri için iletişime geçmekten çekinmeyin!
 📫 Bağlantılarım:
 
 📌 GitHub: [kadirertancam](https://github.com/kadirertancam)
 
 📌 LinkedIn: [Kadir Ertan ÇAM](https://www.linkedin.com/in/kadir-ertan-%C3%A7am-6438a5112/)
-
-
-🚀 Yeni projeler ve işbirlikleri için iletişime geçmekten çekinmeyin!
-📫 Bana ulaşmak için:
-📌 GitHub: kadirertancam
-📌 LinkedIn: Kadir Ertan Çam
 
 🚀 Yeni projeler ve işbirlikleri için her zaman iletişime geçebilirsiniz!
 

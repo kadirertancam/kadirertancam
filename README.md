@@ -41,8 +41,7 @@ Eğer çalışmalarımı beğendiyseniz ve projelerime katkıda bulunmak isterse
 <p align="left"> <a href="https://www.buymeacoffee.com/just_tech" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Bana Kahve Ismarlayın" width="180" height="50"> </a> 
    &nbsp;&nbsp;&nbsp;
  <a href="https://patreon.com/JustTech" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; font-weight: bold; font-size: 16px; color: #f96854;">
-    <img src="https://logos-world.net/wp-content/uploads/2020/02/Patreon-Logo.png" alt="Patreon"width="180" height="50" style="margin-right: 8px;">
-    Patreon’da Destek Ol
+    <img src="https://logos-world.net/wp-content/uploads/2020/02/Patreon-Logo.png" alt="Patreon"width="180" height="40" style="margin-right: 8px;"/>
   </a>
 </p>
 

@@ -46,4 +46,5 @@ Eğer çalışmalarımı beğendiyseniz ve projelerime katkıda bulunmak isterse
 📌 GitHub: [kadirertancam](https://github.com/kadirertancam)
 
 📌 LinkedIn: [Kadir Ertan ÇAM](https://www.linkedin.com/in/kadir-ertan-%C3%A7am-6438a5112/)
+🛠️ Organizasyon: [JustTechCom](https://github.com/JustTechCom)
 

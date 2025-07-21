@@ -38,7 +38,9 @@
 📌 İletişim & Destek
 Eğer çalışmalarımı beğendiyseniz ve projelerime katkıda bulunmak isterseniz, bir kahve ısmarlayarak destek olabilirsiniz! ☕💛
 
-<p align="left"> <a href="https://www.buymeacoffee.com/just_tech" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Bana Kahve Ismarlayın" width="180" height="50"> </a> </p>
+<p align="left"> <a href="https://www.buymeacoffee.com/just_tech" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Bana Kahve Ismarlayın" width="180" height="50"> </a> 
+ &nbsp;&nbsp;&nbsp; <a href="https://patreon.com/JustTech" target="_blank" style="text-decoration:none;"> <img src="https://c5.patreon.com/external/logo/downloads_logomark_color_on_transparent.png" alt="Patreon" width="50" style="vertical-align:middle;"> <span style="font-size:16px; vertical-align:middle; color:#f96854;">Patreon’da Destek Ol</span> </a>
+</p>
 
 🚀 Yeni projeler ve işbirlikleri için iletişime geçmekten çekinmeyin!
 📫 Bağlantılarım:

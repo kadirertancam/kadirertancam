@@ -39,7 +39,11 @@
 Eğer çalışmalarımı beğendiyseniz ve projelerime katkıda bulunmak isterseniz, bir kahve ısmarlayarak destek olabilirsiniz! ☕💛
 
 <p align="left"> <a href="https://www.buymeacoffee.com/just_tech" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Bana Kahve Ismarlayın" width="180" height="50"> </a> 
- &nbsp;&nbsp;&nbsp; <a href="https://patreon.com/JustTech" target="_blank" style="text-decoration:none;"> <img src="https://c5.patreon.com/external/logo/downloads_logomark_color_on_transparent.png" alt="Patreon" width="50" style="vertical-align:middle;"> <span style="font-size:16px; vertical-align:middle; color:#f96854;">Patreon’da Destek Ol</span> </a>
+   &nbsp;&nbsp;&nbsp;
+ <a href="https://patreon.com/JustTech" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; font-weight: bold; font-size: 16px; color: #f96854;">
+    <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZjk2ODU0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuMzYgNy4wMmMtMS4wNzggMC0xLjg5LjY3NS0xLjg5IDEuNTIgMCAuODY1Ljc5NiAxLjUyIDEuODkuMTUyIDEuMTQ3IDAgMS44OS0uNjcgMS44OS0xLjUyIDAtLjg0OS0uNzQzLTEuNTItMS44OS0xLjUyek00Ljg0IDE1LjcyYy0xLjQ4MyAwLTIuNjgtMS4xMTktMi42OC0yLjQ4MiAwLTEuMzY1IDEuMTktMi40NzMgMi42OC0yLjQ3MyAxLjQ4MiAwIDIuNjgzIDEuMTA4IDIuNjgzIDIuNDczIDAgMS4zNjItMS4xNjYgMi40ODItMi42ODMgMi40ODJ6bTE1LjE2LTIuNTY1Yy0xLjQ4MyAwLTIuNjc4LTEuMTExLTIuNjc4LTIuNDgzIDAtMS4zNjUgMS4xOTUtMi40NzMgMi42NzgtMi40NzMgMS40ODIgMCAyLjY4MiAxLjEwOCAyLjY4MiAyLjQ3MyAwIDEuMzYtMS4xNiAyLjQ4LTIuNjgyIDIuNDgzem0tOS4zNSAxLjY3YzAtNi4xNjcgNS4wMi0xMS4xMDQgMTEuMTAtMTEuMTA0IDYuMDggMCAxMS4xMiA0LjkzNiAxMS4xMiAxMS4xMDQgMCA2LjE2OC00Ljk5MiAxMS4xMTItMTEuMTIgMTEuMTEyLTYuMDkgMC0xMS4xMS00LjkzNi0xMS4xMS0xMS4xMDR6Ii8+PC9zdmc+" alt="Patreon" width="24" height="24" style="margin-right: 8px;">
+    Patreon’da Destek Ol
+  </a>
 </p>
 
 🚀 Yeni projeler ve işbirlikleri için iletişime geçmekten çekinmeyin!

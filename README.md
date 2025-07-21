@@ -41,7 +41,7 @@ Eğer çalışmalarımı beğendiyseniz ve projelerime katkıda bulunmak isterse
 <p align="left"> <a href="https://www.buymeacoffee.com/just_tech" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Bana Kahve Ismarlayın" width="180" height="50"> </a> 
    &nbsp;&nbsp;&nbsp;
     <a href="https://patreon.com/JustTech" target="_blank"> 
-            <img src="https://www.crowdcrux.com/wp-content/uploads/2021/06/patreon-.jpeg" alt="Become a Patron" width="180" height="40" style="border-radius: 8px;">
+            <img src="https://www.crowdcrux.com/wp-content/uploads/2021/06/patreon-.jpeg" alt="Become a Patron" width="220" height="50" style="border-radius: 8px;">
         </a>
 </p>
 

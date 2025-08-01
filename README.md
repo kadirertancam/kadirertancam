@@ -43,6 +43,8 @@ Eğer çalışmalarımı beğendiyseniz ve projelerime katkıda bulunmak isterse
     <a href="https://patreon.com/JustTech" target="_blank"> 
             <img src="https://www.crowdcrux.com/wp-content/uploads/2021/06/patreon-.jpeg" alt="Become a Patron" width="220" height="50" style="border-radius: 8px;">
         </a>
+   &nbsp;&nbsp;&nbsp;
+   <p align="left"> <a href="https://kreosus.com/justtech" target="_blank"> <img src="https://www.pngfind.com/pngs/m/410-4105315_kreosus-logo-circle-hd-png-download.png" alt="Bana Kahve Ismarlayın" width="180" height="50"> </a> 
 </p>
 
 🚀 Yeni projeler ve işbirlikleri için iletişime geçmekten çekinmeyin!

@@ -44,7 +44,7 @@ Eğer çalışmalarımı beğendiyseniz ve projelerime katkıda bulunmak isterse
             <img src="https://www.crowdcrux.com/wp-content/uploads/2021/06/patreon-.jpeg" alt="Become a Patron" width="220" height="50" style="border-radius: 8px;">
         </a>
    &nbsp;&nbsp;&nbsp;
-   <p align="left"> <a href="https://kreosus.com/justtech" target="_blank"> <img src="https://thumbor.kreosus.com/kcq6eHEkAp1wP675B3UMOTQwnGg=/kreosus.com%2Fpublic%2Fimages%2Fpage-image.jpg" alt="Bana Kahve Ismarlayın" width="180" height="50"> </a> 
+   <p align="left"> <a href="https://kreosus.com/justtech" target="_blank"> <img src="https://media.licdn.com/dms/image/v2/C4E1BAQG498C06EJIJA/company-background_10000/company-background_10000/0/1585348873473/kreosus_cover?e=2147483647&v=beta&t=e7BBVThRyo9qwj-exbLGLgqokgyQcQQ4TY-JD2vTXtc" alt="Bana Kahve Ismarlayın" width="180" height="50"> </a> 
 </p>
 
 🚀 Yeni projeler ve işbirlikleri için iletişime geçmekten çekinmeyin!
